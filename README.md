@@ -17,3 +17,4 @@ Python • ROS • OpenCV • React • .NET • Django • PostgreSQL
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/ceyda-yurdasucu 
+Mail: yurdasucuceyda@gmail.com
