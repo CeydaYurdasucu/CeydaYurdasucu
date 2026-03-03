@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Ceyda Yurdasucu
 
-<!--
-**CeydaYurdasucu/CeydaYurdasucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Engineering Student - Kocaeli University
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- Robotics & Autonomous Systems
+- Computer Vision (OpenCV)
+- ROS Development
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Currently
+Software Team Member @ KOU Rover Team  
+Working on autonomous rover systems for ERC, Teknofest and Robotaksi competitions.
+
+## 🛠 Technologies
+Python • ROS • OpenCV • React • .NET • Django • PostgreSQL
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/ceyda-yurdasucu 
